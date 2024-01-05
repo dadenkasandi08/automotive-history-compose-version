@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyAppSubmission</string>
+    <string name="auto_history">Automotive Brand History</string>
+    <string name="autohistory">Automotive History</string>
+    <string name="brand_name">Nama Brand</string>
+    <string name="brand_history">Brand History</string>
+    <string name="since">since 1900</string>
+    <string name="founder">founder : </string>
+    <string name="owner">Owner/CEO : </string>
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="my_email">dadenkasandi43@mhs.unram.ac.id</string>
+    <string name="my_name">Daden Kasandi Putra Wesa</string>
+    <string name="my_profile">Hi, Im Daden Kasandi, a passionate individual with a zest for life and a love for technology.Cycling is not just a hobby; its a way of life for me. Theres something liberating about the open road, the wind in your hair, and the rhythm of the pedals. I find solace in the quiet countryside rides and the excitement of conquering new trails.Traveling is my second love. Exploring new places, experiencing diverse cultures, and tasting different cuisines energize my soul. Whether its a backpacking adventure or a luxurious escape, Im always ready to embark on a new journey.Music is my constant companion. Its the soundtrack to my life, enhancing every experience. From upbeat tunes during cycling sessions to soulful melodies on long trips, music completes the picture.My academic journey has been driven by a deep curiosity for technology. Informatic engineering has equipped me with the knowledge and skills to understand and shape the digital world.My fascination with mobile development knows no bounds. Creating innovative and user-friendly mobile applications is not just a career choice; its a passion. I believe that the future is mobile, and Im excited to contribute to it by crafting apps that make a difference.In a rapidly evolving world, Im committed to lifelong learning and staying at the forefront of mobile technology.Join me on my journey as I explore the world, chase my cycling adventures, and code my way into the mobile app landscape.Lets connect and share experiences!</string>
+    <string name="search_brand">Cari brand</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
